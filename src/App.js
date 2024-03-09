@@ -25,6 +25,7 @@ function App() {
   ];
   const addExpenseHandler = (expenses) => {
     console.log('In App.js');
+    console.log("hey!");
     console.log(expenses);
   };
   return (
